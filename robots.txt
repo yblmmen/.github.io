@@ -2,4 +2,4 @@ User-agent: *
 
 
 
-Sitemap: https://thekoguryo.github.io/sitemap.xml
+Sitemap: https://yblmmen.github.io/a.github.iositemap.xml
